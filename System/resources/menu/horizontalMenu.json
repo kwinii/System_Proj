@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Home",
+      "icon": "menu-icon tf-icons ti ti-home",
+      "slug": "pages-home"
+    },
+    {
+      "url": "/ProductsAndServices",
+      "name": "Products and Services",
+      "icon": "menu-icon tf-icons ti-ti-building-store",
+      "slug": "ProductsAndServices"
+    },
+    {
+      "url": "/Contracts",
+      "name": "Contract",
+      "icon": "menu-icon tf-icons ti-ti-writing",
+      "slug": "Contracts"
+    },
+    {
+      "url": "/PerformanceFeedback",
+      "name": "Performance Feedback",
+      "icon": "menu-icon tf-icons ti ti-message-star",
+      "slug": "PerformanceFeedback"
+    }
+  ]
+}

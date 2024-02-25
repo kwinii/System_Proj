@@ -1,0 +1,28 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Home",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "pages-home"
+    },
+    {
+      "url": "/ProductsAndServices",
+      "name": "Products and Services",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "ProductsAndServices"
+    },
+    {
+      "url": "/Contracts",
+      "name": "Contracts",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "Contracts"
+    },
+    {
+      "url": "/PerformanceFeedback",
+      "name": "Performance Feedback",
+      "icon": "menu-icon tf-icons ti ti-smart-home",
+      "slug": "PerformanceFeedback"
+    }
+  ]
+}
